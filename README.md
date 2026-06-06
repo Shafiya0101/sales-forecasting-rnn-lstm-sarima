@@ -1,5 +1,7 @@
 # Rossmann Sales Forecasting — RNN · LSTM · SARIMA
 
+🔗 Live app: https://sales-forecasting-rnn-lstm-sarima-tuu7hcdxbfidoa2nufstt6.streamlit.app/
+
 A complete, exam-ready sales-forecasting project on the **Rossmann Store Sales**
 dataset. It compares two recurrent neural networks (SimpleRNN, LSTM) against a
 classical seasonal **SARIMA** model, and ships with an interactive **Streamlit**
