@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Kaggle data (gated — do not redistribute; app generates a stand-in automatically)
+train.csv
+store.csv
+
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
